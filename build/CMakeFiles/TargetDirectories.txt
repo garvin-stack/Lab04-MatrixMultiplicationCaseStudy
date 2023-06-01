@@ -1,0 +1,4 @@
+/workspaces/Lab04-MatrixMultiplicationCaseStudy/build/CMakeFiles/matrix-mul-row-major.dir
+/workspaces/Lab04-MatrixMultiplicationCaseStudy/build/CMakeFiles/matrix-mul-col-major.dir
+/workspaces/Lab04-MatrixMultiplicationCaseStudy/build/CMakeFiles/edit_cache.dir
+/workspaces/Lab04-MatrixMultiplicationCaseStudy/build/CMakeFiles/rebuild_cache.dir

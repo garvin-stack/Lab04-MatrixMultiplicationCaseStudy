@@ -62,6 +62,8 @@ Create this graph and save it as either a PNG or JPG file to use in the lab repo
 Finally, create a file called REPORT.md and use GitHub markdown to write your lab report. This lab
 report will be relatively short. In the report show the graph you produced based on all your exeriments and describe your findings. Answer questions such as does row and column major ordering perform the same as the size of the matrices increases? Another good question is based on algorithm analysis and asymptotic notation, should there be a diffence in performance based on the use of row or column major ordering? Additionally, how does the performance difference grow as the size of the matrix grows? Linearly? Exponentially? Finally, conclude the report by why there is a difference in performance between the two different orderings.
 
+![image](colvsrow.JPG)
+
 ## Submission:
 
 Each student **must** turn in their repository from GitHub to Gradescope. The contents of which should be:

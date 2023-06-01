@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/Lab04-MatrixMultiplicationCaseStudy/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/matrix-mul-row-major.dir/program0.cpp.o -c /workspaces/Lab04-MatrixMultiplicationCaseStudy/program0.cpp",
+  "file": "/workspaces/Lab04-MatrixMultiplicationCaseStudy/program0.cpp"
+},
+{
+  "directory": "/workspaces/Lab04-MatrixMultiplicationCaseStudy/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/matrix-mul-col-major.dir/program1.cpp.o -c /workspaces/Lab04-MatrixMultiplicationCaseStudy/program1.cpp",
+  "file": "/workspaces/Lab04-MatrixMultiplicationCaseStudy/program1.cpp"
+}
+]
